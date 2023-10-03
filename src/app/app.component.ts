@@ -15,8 +15,7 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.test1 = 22222222222
-    this.test4 = 333
+    
   }
 }
 
